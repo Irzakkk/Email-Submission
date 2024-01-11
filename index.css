@@ -1,0 +1,57 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Poppins',sans-serif;
+  box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image:url("https://img.freepik.com/premium-vector/circuit-board-technology-background-with-hi-tech-digital-data-connection-system-computer-electronic_29971-480.jpg?w=900");
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.container{
+   padding-top: 200px;
+   padding-left:100px ;
+}
+.container h3{
+    font-size: 25px;
+}
+.container h1{
+    font-size: 50px;
+}
+.container p{
+    font-size:20px;
+}
+input{
+    border: none;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right:100px;
+    margin-top: 40px;
+    /* border-radius: 10px; */
+    margin-right: 10px;
+    margin-bottom: 20px;
+    background-color: azure;
+    font-size: 16px;
+}
+button{
+    cursor: pointer;
+    width:50px;
+    height: 60px;
+    border: none;
+    background-color: transparent;
+    vertical-align:middle;
+}
+button img{
+    width: 100%;
+}
+span{
+    color: yellow;
+    font-size: 20px;
+    
+}
